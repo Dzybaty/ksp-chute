@@ -1,0 +1,2 @@
+#root,body,html{background-color:#2f2f2f;height:100%;width:100%}#root,.container,body,html{display:flex;justify-content:center}.container{margin-top:20px;width:400px}.container,.section{flex-direction:column}.section{border:2px solid gray;border-radius:10px;display:flex;margin:5px;padding:10px}.add-button{margin-top:10px!important}.cards-container{display:block;min-height:32px}.result-row{display:flex;flex-direction:row;justify-content:space-between}
+/*# sourceMappingURL=main.970f54c6.css.map*/

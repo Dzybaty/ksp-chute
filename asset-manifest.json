@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ksp-parachute-calculator/static/css/main.970f54c6.css",
+    "main.js": "/ksp-parachute-calculator/static/js/main.5971b629.js",
+    "index.html": "/ksp-parachute-calculator/index.html",
+    "main.970f54c6.css.map": "/ksp-parachute-calculator/static/css/main.970f54c6.css.map",
+    "main.5971b629.js.map": "/ksp-parachute-calculator/static/js/main.5971b629.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.970f54c6.css",
+    "static/js/main.5971b629.js"
+  ]
+}
