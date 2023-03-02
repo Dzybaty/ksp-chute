@@ -1,7 +1,7 @@
 {
   "name": "ksp-chute",
   "version": "1.0.0",
-  "homepage": "http://dzybaty.github.io/ksp-parachute-calculator",
+  "homepage": "http://dzybaty.github.io/ksp-chute/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
